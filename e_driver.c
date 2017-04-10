@@ -2,7 +2,6 @@
 * Project:   /dev/e                                          *
 * File:      e_driver.c                                      *
 * Name:      Sabrina Aravena                                 *
-* Due :      December 11, 2016                               *
 **************************************************************/
 
 #include <linux/fs.h>
