@@ -2,7 +2,6 @@
 * Project:   /dev/e                                          *
 * File:      e_digits.c                                      *
 * Name:      Sabrina Aravena                                 *
-* Due :      December 11, 2016                               *
 **************************************************************/
 
 #include <stdio.h>
